@@ -1,0 +1,12 @@
+torch>=1.7
+torchvision
+facexlib
+numpy
+opencv-python
+Pillow
+tqdm
+timm
+gradio
+opencv-python
+torch
+jinja2
