@@ -19,3 +19,5 @@ It is an image recovery model that can convert an image from low resolution to h
 
 Then you can use it on gradio.
 When the image is recovered, the data will be saved in "results/data.png"
+
+Original Author: https://huggingface.co/spaces/givkashi/SwinIR-Super-resolution/tree/main
