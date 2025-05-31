@@ -17,5 +17,5 @@ It is an image recovery model that can convert an image from low resolution to h
 ### Usage
 - `python app.py`
 
-Then you can use it on gradio, 
-when the image is recovered the data will be saved in "results/data.png"
+Then you can use it on gradio.
+When the image is recovered, the data will be saved in "results/data.png"
